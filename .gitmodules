@@ -1,0 +1,4 @@
+[submodule "omi"]
+	url = https://github.com/jhead12/omi
+[submodule "gpuaudio-sdk"]
+	url = https://github.com/jhead12/gpuaudio-sdk
